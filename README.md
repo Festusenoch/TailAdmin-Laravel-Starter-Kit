@@ -16,13 +16,12 @@ Inside [TailAdmin](https://tailadmin.com/), there are many more components and p
 
 ---
 
-## How to install
+## How to use
 
-- Clone the repository with `git clone`
-- Copy the `.env.example` file to `.env` and edit database credentials there
-- Run `composer install`
-- Run `php artisan key:generate`
-- Run `php artisan migrate`
-- Run `npm install` and `npm run build`
-- Launch the main URL `/`. Go to `Register` and proceed.
-- That's it.
+To use this kit, you can install it using:
+
+```
+laravel new --using=laraveldaily/tailadmin-starter-kit
+```
+
+From there, you can modify the kit to your needs.
