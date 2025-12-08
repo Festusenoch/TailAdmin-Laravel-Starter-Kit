@@ -10,7 +10,7 @@ class MenuHelper
             [
                 'icon' => 'dashboard',
                 'name' => 'Dashboard',
-                'path' => route('dashboard'),
+                'path' => route('dashboard', absolute: false),
             ],
         ];
     }
@@ -23,8 +23,8 @@ class MenuHelper
                 'name' => 'User Management',
                 'subItems' => [
                     [
-                        'name' => 'Users', 
-                        'path' => route('users.index'), 
+                        'name' => 'Users',
+                        'path' => route('users.index', absolute: false),
                         'pro' => false
                     ],
                 ],
