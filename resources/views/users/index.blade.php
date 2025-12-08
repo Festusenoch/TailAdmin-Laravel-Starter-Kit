@@ -4,11 +4,11 @@
     <x-common.page-breadcrumb pageTitle="Users" />
 
     <div class="space-y-6">
-        @if (session('success'))
+        @session('success')
             <x-ui.alert variant="success">
-                {{ session('success') }}
+                {{ $value }}
             </x-ui.alert>
-        @endif
+        @endsession
 
         <div class="overflow-hidden rounded-xl border border-gray-200 bg-white dark:border-gray-800 dark:bg-white/[0.03]">
             <div class="max-w-full overflow-x-auto custom-scrollbar">
