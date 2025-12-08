@@ -15,14 +15,18 @@ class MenuHelper
         ];
     }
 
-    public static function getOthersItems(): array
+    public static function getAdministrationItems(): array
     {
         return [
             [
                 'icon' => 'charts',
-                'name' => 'Example two level',
+                'name' => 'User Management',
                 'subItems' => [
-                    ['name' => 'Child', 'path' => '#', 'pro' => false],
+                    [
+                        'name' => 'Users', 
+                        'path' => route('users.index'), 
+                        'pro' => false
+                    ],
                 ],
             ],
         ];
@@ -36,8 +40,8 @@ class MenuHelper
                 'items' => self::getMainNavItems()
             ],
             [
-                'title' => 'Others',
-                'items' => self::getOthersItems()
+                'title' => 'Administration',
+                'items' => self::getAdministrationItems()
             ]
         ];
     }
